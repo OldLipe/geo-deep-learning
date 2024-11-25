@@ -1,1 +1,1 @@
-# geo-deep-learning [WiP]
+# Geospatial With Deep Learning [WiP]
